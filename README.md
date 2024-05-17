@@ -1,2 +1,2 @@
 # GIT_practice
-Crated for preactice purpose
+Crated for practice purpose
